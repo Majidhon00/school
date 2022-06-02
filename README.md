@@ -1,2 +1,2 @@
 # school
-maktab uchun web sayt hech qanday framwork ishlatilmagan "php mysql"
+maktab uchun web sayt hech qanday framework ishlatilmagan "php mysql"
